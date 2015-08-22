@@ -1,0 +1,72 @@
+#Busqueda {
+	display: inline-block;
+    margin-top: 0.5em;
+    vertical-align: top;
+}
+
+body {
+	background-color: gray;
+	margin: 0em;
+	font-size: 16px;
+}
+
+header {
+	margin: 0em;
+	padding: 1em 3em;
+	background-color: red;
+	height: 40px;
+}
+
+header img {
+	width: 100px;
+	float: left;
+}
+
+nav {
+	display: inline-block;
+	padding-top: 0.5em;
+
+}
+
+
+ul {
+	display: inline-block;
+    margin: 0em;
+    padding: 0em;
+    margin-left: 3em;
+}
+
+
+
+li {
+	display: inline-block;
+  	margin-right: 1em;
+	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 1.3em;
+}
+
+a:hover {
+	color: #fff2f2;
+}
+
+
+
+section {
+	display: block;
+	text-align: center;
+
+
+}
+.serie {
+	display: inline-block;
+}
+
+.formulario {
+	margin: 2em;
+	width: 650px;
+}
